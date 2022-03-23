@@ -1,1 +1,6 @@
-Replace this with a link to your a GitHub or social media profile.
+These are my websites
+
+[sandy's github](https://sandyubah.github.io/markdown-portfolio/)
+
+[sites](https://www.cisco.com/)
+
